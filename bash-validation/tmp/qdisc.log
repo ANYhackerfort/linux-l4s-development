@@ -1,0 +1,732 @@
+------ Tue 29 Jul 2025 03:04:53 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 635308 bytes 430 pkt (dropped 0, overlimits 418 requeues 0) 
+ backlog 13626b 89p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 635308 bytes 430 pkt (dropped 0, overlimits 0 requeues 0) 
+ backlog 13626b 9p requeues 0
+prob 0.044935 delay_c 8156us delay_l 0us
+pkts_in_c 439 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:54 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 1410476 bytes 942 pkt (dropped 1, overlimits 930 requeues 0) 
+ backlog 10598b 246p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 1410476 bytes 942 pkt (dropped 1, overlimits 0 requeues 0) 
+ backlog 10598b 7p requeues 0
+prob 0.034745 delay_c 6450us delay_l 0us
+pkts_in_c 950 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:54 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 2194728 bytes 1460 pkt (dropped 1, overlimits 1448 requeues 0) 
+ backlog 7570b 424p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 2194728 bytes 1460 pkt (dropped 1, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.037215 delay_c 3016us delay_l 0us
+pkts_in_c 1466 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:55 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 2965354 bytes 1969 pkt (dropped 1, overlimits 1957 requeues 0) 
+ backlog 9084b 602p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 2965354 bytes 1969 pkt (dropped 1, overlimits 0 requeues 0) 
+ backlog 9084b 6p requeues 0
+prob 0.040537 delay_c 4695us delay_l 0us
+pkts_in_c 1976 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:56 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 3748092 bytes 2486 pkt (dropped 2, overlimits 2474 requeues 0) 
+ backlog 6056b 800p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 3748092 bytes 2486 pkt (dropped 2, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.038068 delay_c 3390us delay_l 0us
+pkts_in_c 2492 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:56 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 4530830 bytes 3003 pkt (dropped 2, overlimits 2991 requeues 0) 
+ backlog 7570b 1054p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 4530830 bytes 3003 pkt (dropped 2, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.029219 delay_c 4470us delay_l 0us
+pkts_in_c 3010 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:57 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 5310540 bytes 3518 pkt (dropped 3, overlimits 3506 requeues 0) 
+ backlog 7570b 1304p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 5310540 bytes 3518 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.026943 delay_c 4802us delay_l 0us
+pkts_in_c 3526 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:57 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 6091764 bytes 4034 pkt (dropped 3, overlimits 4022 requeues 0) 
+ backlog 7570b 1556p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 6091764 bytes 4034 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.017610 delay_c 3344us delay_l 0us
+pkts_in_c 4042 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:58 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 6871474 bytes 4549 pkt (dropped 3, overlimits 4537 requeues 0) 
+ backlog 7570b 1808p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 6871474 bytes 4549 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.012042 delay_c 4431us delay_l 0us
+pkts_in_c 4557 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:58 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 7642100 bytes 5058 pkt (dropped 3, overlimits 5046 requeues 0) 
+ backlog 7570b 2057p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 7642100 bytes 5058 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.005722 delay_c 4952us delay_l 0us
+pkts_in_c 5066 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:59 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 8426352 bytes 5576 pkt (dropped 3, overlimits 5564 requeues 0) 
+ backlog 7570b 2310p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 8426352 bytes 5576 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.000000 delay_c 4804us delay_l 0us
+pkts_in_c 5584 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:04:59 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 9210604 bytes 6094 pkt (dropped 3, overlimits 6082 requeues 0) 
+ backlog 6056b 2562p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 9210604 bytes 6094 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.001470 delay_c 3302us delay_l 0us
+pkts_in_c 6101 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:00 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 9991828 bytes 6610 pkt (dropped 3, overlimits 6598 requeues 0) 
+ backlog 6056b 2814p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 9991828 bytes 6610 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.009190 delay_c 3241us delay_l 0us
+pkts_in_c 6617 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:00 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 10771538 bytes 7125 pkt (dropped 3, overlimits 7113 requeues 0) 
+ backlog 6056b 3066p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 10771538 bytes 7125 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.005430 delay_c 3492us delay_l 0us
+pkts_in_c 7132 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:01 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 11543678 bytes 7635 pkt (dropped 3, overlimits 7623 requeues 0) 
+ backlog 6056b 3315p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 11543678 bytes 7635 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.006722 delay_c 3118us delay_l 0us
+pkts_in_c 7642 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:01 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 12324902 bytes 8151 pkt (dropped 3, overlimits 8139 requeues 0) 
+ backlog 7570b 3569p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 12324902 bytes 8151 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.001787 delay_c 4495us delay_l 0us
+pkts_in_c 8159 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:02 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 13104612 bytes 8666 pkt (dropped 3, overlimits 8654 requeues 0) 
+ backlog 6056b 3819p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 13104612 bytes 8666 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.000000 delay_c 4717us delay_l 0us
+pkts_in_c 8673 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:02 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 13882808 bytes 9180 pkt (dropped 3, overlimits 9168 requeues 0) 
+ backlog 7570b 4072p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 13882808 bytes 9180 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.008709 delay_c 4845us delay_l 0us
+pkts_in_c 9188 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:03 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 14657976 bytes 9692 pkt (dropped 3, overlimits 9680 requeues 0) 
+ backlog 6056b 4321p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 14657976 bytes 9692 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.005750 delay_c 4018us delay_l 0us
+pkts_in_c 9699 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:03 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 15431630 bytes 10203 pkt (dropped 3, overlimits 10191 requeues 0) 
+ backlog 7570b 4572p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 15431630 bytes 10203 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.001578 delay_c 4048us delay_l 0us
+pkts_in_c 10211 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:04 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 16211340 bytes 10718 pkt (dropped 3, overlimits 10706 requeues 0) 
+ backlog 7570b 4824p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 16211340 bytes 10718 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.004138 delay_c 4142us delay_l 0us
+pkts_in_c 10726 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:04 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 16994078 bytes 11235 pkt (dropped 3, overlimits 11223 requeues 0) 
+ backlog 6056b 5075p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 16994078 bytes 11235 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.008611 delay_c 3078us delay_l 0us
+pkts_in_c 11242 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:05 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 17778330 bytes 11753 pkt (dropped 3, overlimits 11741 requeues 0) 
+ backlog 7570b 5330p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 17778330 bytes 11753 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.002746 delay_c 4087us delay_l 0us
+pkts_in_c 11761 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:05 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 18559554 bytes 12269 pkt (dropped 3, overlimits 12257 requeues 0) 
+ backlog 7570b 5582p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 18559554 bytes 12269 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.000000 delay_c 3631us delay_l 0us
+pkts_in_c 12277 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:06 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 19331694 bytes 12779 pkt (dropped 3, overlimits 12767 requeues 0) 
+ backlog 6056b 5830p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 19331694 bytes 12779 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.006388 delay_c 3892us delay_l 0us
+pkts_in_c 12786 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:06 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 20106862 bytes 13291 pkt (dropped 3, overlimits 13279 requeues 0) 
+ backlog 7570b 6082p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 20106862 bytes 13291 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.009603 delay_c 4288us delay_l 0us
+pkts_in_c 13299 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:07 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 20889600 bytes 13808 pkt (dropped 3, overlimits 13796 requeues 0) 
+ backlog 6056b 6333p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 20889600 bytes 13808 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.001494 delay_c 3456us delay_l 0us
+pkts_in_c 13815 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:07 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 21670824 bytes 14324 pkt (dropped 3, overlimits 14312 requeues 0) 
+ backlog 7570b 6587p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 21670824 bytes 14324 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.002147 delay_c 4875us delay_l 0us
+pkts_in_c 14332 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:08 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 22442964 bytes 14834 pkt (dropped 3, overlimits 14822 requeues 0) 
+ backlog 7570b 6836p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 22442964 bytes 14834 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.007346 delay_c 3727us delay_l 0us
+pkts_in_c 14842 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:09 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 23225702 bytes 15351 pkt (dropped 3, overlimits 15339 requeues 0) 
+ backlog 7570b 7089p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 23225702 bytes 15351 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.002476 delay_c 4800us delay_l 0us
+pkts_in_c 15359 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:09 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 24011468 bytes 15870 pkt (dropped 3, overlimits 15858 requeues 0) 
+ backlog 6056b 7341p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 24011468 bytes 15870 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.005672 delay_c 3461us delay_l 0us
+pkts_in_c 15877 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:10 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 24794206 bytes 16387 pkt (dropped 3, overlimits 16375 requeues 0) 
+ backlog 6056b 7594p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 24794206 bytes 16387 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.005769 delay_c 3139us delay_l 0us
+pkts_in_c 16394 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:10 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 25567860 bytes 16898 pkt (dropped 3, overlimits 16886 requeues 0) 
+ backlog 6056b 7844p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 25567860 bytes 16898 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.006782 delay_c 3163us delay_l 0us
+pkts_in_c 16905 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:11 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 26349084 bytes 17414 pkt (dropped 3, overlimits 17402 requeues 0) 
+ backlog 6056b 8096p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 26349084 bytes 17414 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.000000 delay_c 3094us delay_l 0us
+pkts_in_c 17421 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:11 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 27130308 bytes 17930 pkt (dropped 3, overlimits 17918 requeues 0) 
+ backlog 7570b 8350p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 27130308 bytes 17930 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.003800 delay_c 4137us delay_l 0us
+pkts_in_c 17938 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:12 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 27913046 bytes 18447 pkt (dropped 3, overlimits 18435 requeues 0) 
+ backlog 6056b 8601p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 27913046 bytes 18447 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.003925 delay_c 3493us delay_l 0us
+pkts_in_c 18454 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:12 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 28688214 bytes 18959 pkt (dropped 3, overlimits 18947 requeues 0) 
+ backlog 7570b 8853p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 28688214 bytes 18959 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.008848 delay_c 4430us delay_l 0us
+pkts_in_c 18967 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:13 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 29464896 bytes 19472 pkt (dropped 3, overlimits 19460 requeues 0) 
+ backlog 6056b 9102p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 29464896 bytes 19472 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.003153 delay_c 3247us delay_l 0us
+pkts_in_c 19479 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:13 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 30246120 bytes 19988 pkt (dropped 3, overlimits 19976 requeues 0) 
+ backlog 7570b 9356p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 30246120 bytes 19988 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.000900 delay_c 4232us delay_l 0us
+pkts_in_c 19996 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:14 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 31024316 bytes 20502 pkt (dropped 3, overlimits 20490 requeues 0) 
+ backlog 7570b 9607p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 31024316 bytes 20502 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.002953 delay_c 1394us delay_l 0us
+pkts_in_c 20510 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:14 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 31804026 bytes 21017 pkt (dropped 3, overlimits 21005 requeues 0) 
+ backlog 7570b 9859p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 31804026 bytes 21017 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.000629 delay_c 4886us delay_l 0us
+pkts_in_c 21025 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:15 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 32585250 bytes 21533 pkt (dropped 3, overlimits 21521 requeues 0) 
+ backlog 6056b 10110p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 32585250 bytes 21533 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.004374 delay_c 3191us delay_l 0us
+pkts_in_c 21540 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:15 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 33364960 bytes 22048 pkt (dropped 3, overlimits 22036 requeues 0) 
+ backlog 7570b 10363p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 33364960 bytes 22048 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.004764 delay_c 4884us delay_l 0us
+pkts_in_c 22056 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:16 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 34150726 bytes 22567 pkt (dropped 3, overlimits 22555 requeues 0) 
+ backlog 7570b 10617p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 34150726 bytes 22567 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.002068 delay_c 4420us delay_l 0us
+pkts_in_c 22575 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:16 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 34933464 bytes 23084 pkt (dropped 3, overlimits 23072 requeues 0) 
+ backlog 6056b 10868p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 34933464 bytes 23084 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.000000 delay_c 3146us delay_l 0us
+pkts_in_c 23091 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:17 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 35717716 bytes 23602 pkt (dropped 3, overlimits 23590 requeues 0) 
+ backlog 7570b 11123p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 35717716 bytes 23602 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.004686 delay_c 4088us delay_l 0us
+pkts_in_c 23610 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:17 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 36497426 bytes 24117 pkt (dropped 3, overlimits 24105 requeues 0) 
+ backlog 6056b 11373p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 36497426 bytes 24117 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.001833 delay_c 3533us delay_l 0us
+pkts_in_c 24124 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:18 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 37268052 bytes 24626 pkt (dropped 3, overlimits 24614 requeues 0) 
+ backlog 6056b 11622p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 37268052 bytes 24626 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.002354 delay_c 3366us delay_l 0us
+pkts_in_c 24633 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:18 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 38049276 bytes 25142 pkt (dropped 3, overlimits 25130 requeues 0) 
+ backlog 6056b 11874p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 38049276 bytes 25142 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.001157 delay_c 3605us delay_l 0us
+pkts_in_c 25149 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:19 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 38836556 bytes 25662 pkt (dropped 3, overlimits 25650 requeues 0) 
+ backlog 7570b 12130p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 38836556 bytes 25662 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.001417 delay_c 4658us delay_l 0us
+pkts_in_c 25670 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:19 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 39619294 bytes 26179 pkt (dropped 3, overlimits 26167 requeues 0) 
+ backlog 6056b 12381p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 39619294 bytes 26179 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.004537 delay_c 3414us delay_l 0us
+pkts_in_c 26186 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:20 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 40403546 bytes 26697 pkt (dropped 3, overlimits 26685 requeues 0) 
+ backlog 7570b 12636p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 40403546 bytes 26697 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.005807 delay_c 4807us delay_l 0us
+pkts_in_c 26705 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:20 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 41180228 bytes 27210 pkt (dropped 3, overlimits 27198 requeues 0) 
+ backlog 6056b 12885p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 41180228 bytes 27210 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.011046 delay_c 3272us delay_l 0us
+pkts_in_c 27217 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:21 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 41964480 bytes 27728 pkt (dropped 3, overlimits 27716 requeues 0) 
+ backlog 7570b 13140p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 41964480 bytes 27728 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.007074 delay_c 4223us delay_l 0us
+pkts_in_c 27736 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:22 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 42745704 bytes 28244 pkt (dropped 3, overlimits 28231 requeues 0) 
+ backlog 7570b 13392p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 42745704 bytes 28244 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.001816 delay_c 3669us delay_l 0us
+pkts_in_c 28252 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:22 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 43520872 bytes 28756 pkt (dropped 3, overlimits 28743 requeues 0) 
+ backlog 6056b 13641p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 43520872 bytes 28756 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 6056b 4p requeues 0
+prob 0.000832 delay_c 3463us delay_l 0us
+pkts_in_c 28763 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:23 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 44293012 bytes 29266 pkt (dropped 3, overlimits 29253 requeues 0) 
+ backlog 7570b 13892p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 44293012 bytes 29266 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 7570b 5p requeues 0
+prob 0.005400 delay_c 4183us delay_l 0us
+pkts_in_c 29274 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:23 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 45013879 bytes 29745 pkt (dropped 3, overlimits 29732 requeues 0) 
+ backlog 0b 14117p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 45013879 bytes 29745 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 29748 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:24 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 45014570 bytes 29751 pkt (dropped 3, overlimits 29732 requeues 0) 
+ backlog 0b 14117p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 45014570 bytes 29751 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 29754 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:24 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 45014570 bytes 29751 pkt (dropped 3, overlimits 29732 requeues 0) 
+ backlog 0b 14117p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 45014570 bytes 29751 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 29754 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
+------ Tue 29 Jul 2025 03:05:25 AM PDT ------
+qdisc htb 1: root refcnt 33 r2q 10 default 0x10 direct_packets_stat 0 direct_qlen 1000
+ Sent 45014570 bytes 29751 pkt (dropped 3, overlimits 29732 requeues 0) 
+ backlog 0b 14117p requeues 0
+qdisc dualpi2 2: parent 1:10 limit 200p target 5ms tupdate 16ms alpha 0.156250 beta 3.195312 l4s_ect coupling_factor 2 drop_on_overload step_thresh 1ms drop_dequeue split_gso classic_protection 10% 
+ Sent 45014570 bytes 29751 pkt (dropped 3, overlimits 0 requeues 0) 
+ backlog 0b 0p requeues 0
+prob 0.000000 delay_c 0us delay_l 0us
+pkts_in_c 29754 pkts_in_l 0 maxq 15
+ecn_mark 0 step_marks 0
+credit -121120 (L)
+
